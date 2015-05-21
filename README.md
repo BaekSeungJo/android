@@ -1,2 +1,2 @@
 # android
-Android App Example
+Android App example for test and store
